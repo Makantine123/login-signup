@@ -1,2 +1,2 @@
-# login-signup
+# Login and Signup Samples
 Login Signup Pages
